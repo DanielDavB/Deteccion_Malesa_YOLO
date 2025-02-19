@@ -1,0 +1,5 @@
+train: C:\Users\danie\OneDrive\Documentos\Deteccion_Malesa_AI\train #Ruta a la carpeta train
+val: C:\Users\danie\OneDrive\Documentos\Deteccion_Malesa_AI\val #Ruta a la carpeta val
+nc: 1 #Numero de etiquetas (clases)
+
+names: ["malesa"] #Estos son los nombres de las etiquetas que tenemos

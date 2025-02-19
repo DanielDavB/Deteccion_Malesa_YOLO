@@ -1,0 +1,7 @@
+venv/
+modelos/
+modelo_completo_yolo.zip
+runs/
+shapefiles/*
+testimages/*
+modelos/*
