@@ -5,3 +5,7 @@ runs/
 shapefiles/*
 testimages/*
 modelos/*
+train/images/*
+train/labels/*
+val/images/*
+val/labels/*
