@@ -56,6 +56,6 @@ gdf = gpd.GeoDataFrame(geometry=merged_polygons)
 gdf.set_crs(epsg=3857, inplace=True)  # Puedes cambiar el CRS según tu caso
 
 # Guardar el GeoDataFrame como un shapefile
-gdf.to_file("shapefiles/detections_merged.shp")
+gdf.to_file("shapefiles/detections_merged2.shp")
 
 print("Shapefile guardado como 'detections_merged.shp'")
